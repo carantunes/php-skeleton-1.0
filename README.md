@@ -1,2 +1,6 @@
-# php-skeleton-1.0
-PHP simple skeleton with smarty and scss
+#PHP Skeleton
+
+Based on https://github.com/panique/mini
+
+- Added scss compilation on refresh page
+- smarty template engine
