@@ -6,8 +6,8 @@ vendor/*
 composer.lock
 
 #smarty compiled files
-cache/*
-templates_c/*
+application/view/cache/*
+application/view/templates_c/*
 
 #logs
 *.log
