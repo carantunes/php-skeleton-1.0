@@ -1,0 +1,17 @@
+#scss compiled styles
+scss_cache/*
+
+#vendor 
+vendor/*
+composer.lock
+
+#smarty compiled files
+view/cache/*
+view/templates_c/*
+
+#logs
+*.log
+
+!.gitkeep
+
+
